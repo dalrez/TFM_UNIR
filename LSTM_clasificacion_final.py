@@ -1,15 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 29 19:18:32 2026
-
-@author: PC
-"""
-
-# -*- coding: utf-8 -*-
-"""
-LSTM clasificación direccional + backtest + fechas alineadas
-"""
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
