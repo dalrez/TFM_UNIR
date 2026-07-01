@@ -1,15 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 19 23:18:57 2026
-
-@author: PC
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Monte Carlo LSTM + Curvas temporales con fechas
-"""
-
 import os
 import random
 import numpy as np
